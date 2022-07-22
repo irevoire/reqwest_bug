@@ -12,5 +12,6 @@ cargo run --release --bin reqwest_async
 
 On my computer it stops after 16366 requests.
 
-## Step 3
-Close the server and do it again with `reqwest_sync`.
+## Other included lib
+
+You can do the step 2 with `reqwest_sync` or `ureq`.
